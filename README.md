@@ -1,13 +1,14 @@
 # ARNAV CHITRIV
 
----
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 ### ◇ Connect With Me
 
 › **LinkedIn** → [linkedin.com/in/arnav-chitriv](https://www.linkedin.com/in/arnav-chitriv-536764372/)  
+
 › **Email** → [arnav.chitriv@gmail.com](mailto:arnav.chitriv@gmail.com)
 
----
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 ### ◇ Skills & Tools
 
