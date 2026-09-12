@@ -1,4 +1,3 @@
-<pre>
 ARNAV CHITRIV
 =============
 
@@ -22,4 +21,3 @@ ARNAV CHITRIV
 › Engineering          → CMake · Ninja · Catch2 · Reproducible Builds
                          Dependency Management · Automated Testing
 › Development          → Git · GitHub · Linux · WSL · GitHub CLI · Shell · cURL · Ollama
-</pre>
