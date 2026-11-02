@@ -1,12 +1,5 @@
 # ARNAV CHITRIV
 
-**◇ LINKS**
-
-› **LinkedIn** → [linkedin.com/in/arnav-chitriv](https://www.linkedin.com/in/arnav-chitriv-536764372/)<br>
-› **Email** → [arnav.chitriv@gmail.com](mailto:arnav.chitriv@gmail.com)
-
-<br>
-
 **◇ TECHNICAL STACK**
 
 › **Languages** → C++20 · Python · CUDA C++<br>
